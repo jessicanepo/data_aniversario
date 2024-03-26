@@ -609,6 +609,6 @@ const countHours = setInterval(function() {
     }
 }, 1000);
 
-},{}]},["8bDoD","3cYfC"], "3cYfC", "parcelRequire628e")
+},{}]},["8bDoD","3cYfC"], "3cYfC", "parcelRequireec61")
 
 //# sourceMappingURL=main.js.map
